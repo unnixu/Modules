@@ -1,5 +1,5 @@
 # Description
-This repository includes small useful modules I make. Modules here are not enough to make a whole new repository just for them, so I put such scripts here.
+This repository includes small useful modules I make. Modules here are not enough to make a whole new repository just for them, so I put them here.
 
 
 > [!IMPORTANT]
